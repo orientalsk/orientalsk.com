@@ -1,0 +1,53 @@
+{
+  "images": {
+    "directory": "img/",
+    "interval": 30000,
+    "image": [
+      {
+        "src": "img_3308.jpg",
+        "text": "HHHMMMMMMMM....",
+        "position": "center top"
+      },
+      {
+        "src": "img_3309.jpg",
+        "text": "Boh lang chu",
+        "position": "center bottom"
+      },
+      {
+        "src": "lillehammer.jpg",
+        "text": "Gigantuar bunduru",
+        "position": "center center"
+      },
+      {
+        "src": "chinatown.jpg",
+        "text": "Chitty, chitty, bang nam",
+        "position": "center center"
+      },
+      {
+        "src": "berlinzoo.jpg",
+        "text": "Phue Tchoe",
+        "position": "center center"
+      },
+      {
+        "src": "berlinwall.jpg",
+        "text": "Mongorian Warl",
+        "position": "center top"
+      },
+      {
+        "src": "loddon.jpg",
+        "text": "Fhengu schweiru",
+        "position": "center top"
+      },
+      {
+        "src": "amster.jpg",
+        "text": "Shroom-SAM",
+        "position": "center bottom"
+      },
+      {
+        "src": "orientalsk.jpg",
+        "text": "Hakkumedusanumas",
+        "position": "center center"
+      }
+    ]
+  }
+}
